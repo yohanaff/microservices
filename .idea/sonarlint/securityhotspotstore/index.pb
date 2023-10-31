@@ -41,3 +41,7 @@ hinventory-service/src/main/java/com/yohanaff/github/inventoryservice/controller
 Worder-service/src/main/java/com/yohanaff/github/orderservice/dto/InventoryResponse.java,1\a\1a47846cd6ee979ebac9b002787966a85d285572
 •
 einventory-service/src/main/java/com/yohanaff/github/inventoryservice/InventoryServiceApplication.java,8\6\862b4ecdb5edc07207955cd16d5130156360f69d
+’
+bdiscovery-server/src/main/java/com/yohanaff/github/discoveryserver/DiscoveryServerApplication.java,e\9\e9883ca00711e2d6c4ab0942d0af813b64a4a0dc
+G
+product-service/pom.xml,f\c\fcf146007330bb14605a232d25428bbf6aa50b7b
