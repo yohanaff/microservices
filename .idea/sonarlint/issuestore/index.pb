@@ -66,3 +66,7 @@ C
 api-gateway/pom.xml,2\b\2bfa2b108f2439e99e004f4085b58c22cf995f73
 d
 4api-gateway/src/main/java/config/SecurityConfig.java,f\0\f07d3c9fb8a3df4e05c5413d704bbfff3d4adfbd
+H
+discovery-server/pom.xml,2\c\2c58c7878e43d126fc56cae853d5b06de57d0b3e
+ç
+]discovery-server/src/main/java/com/yohanaff/github/discoveryserver/config/SecurityConfig.java,5\8\5855906bd6dc740ed8bab2692f4f086ca712faa9
