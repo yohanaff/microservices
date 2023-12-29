@@ -76,3 +76,9 @@ B
 nada.yml,0\9\090f01bbd2da257c6a79408e3e9238cacc3c6c24
 ˆ
 Xorder-service/src/main/java/com/yohanaff/github/orderservice/event/OrderPlacedEvent.java,4\e\4ef005beb01c56915adfb56ce1c7dc9523a77493
+L
+notification-service/pom.xml,0\1\01f9e880c9ba9f01d23d7605950269a1f1661129
+Š
+Znotification-service/src/main/java/com/yohanaff/github/NotificationServiceApplication.java,f\d\fdbfdaf60a0d113841917411deb486ab66ca5149
+|
+Lnotification-service/src/main/java/com/yohanaff/github/OrderPlacedEvent.java,2\5\2589ff213221d9183bfe0287c6dcbb4933441059
