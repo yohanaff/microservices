@@ -82,3 +82,7 @@ L
 Znotification-service/src/main/java/com/yohanaff/github/NotificationServiceApplication.java,f\d\fdbfdaf60a0d113841917411deb486ab66ca5149
 |
 Lnotification-service/src/main/java/com/yohanaff/github/OrderPlacedEvent.java,2\5\2589ff213221d9183bfe0287c6dcbb4933441059
+F
+api-gateway/Dockerfile,9\5\9548e2ce3bdfe112d8c757987e1beebc1ecab5ed
+N
+api-gateway/Dockerfile.layered,9\8\985aae4f95e5f25b49363a8e39e43dc2925f69c1

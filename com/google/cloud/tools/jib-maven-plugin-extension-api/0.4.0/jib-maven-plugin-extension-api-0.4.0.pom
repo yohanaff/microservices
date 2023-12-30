@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.google.cloud.tools</groupId>
+  <artifactId>jib-maven-plugin-extension-api</artifactId>
+  <version>0.4.0</version>
+  <name>Extension API for Jib Maven Plugin</name>
+  <description>Provides API to extend Jib Maven Plugin containerization.</description>
+  <url>https://github.com/GoogleContainerTools/jib</url>
+  <inceptionYear>2018</inceptionYear>
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>chanseokoh</id>
+      <name>Chanseok Oh</name>
+      <email>chanseok@google.com</email>
+    </developer>
+    <developer>
+      <id>loosebazooka</id>
+      <name>Appu Goundan</name>
+      <email>appu@google.com</email>
+    </developer>
+    <developer>
+      <id>TadCordle</id>
+      <name>Tad Cordle</name>
+      <email>tcordle@google.com</email>
+    </developer>
+    <developer>
+      <id>briandealwis</id>
+      <name>Brian de Alwis</name>
+      <email>bdealwis@google.com</email>
+    </developer>
+    <developer>
+      <id>coollog</id>
+      <name>Qingyang Chen</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:https://github.com/GoogleContainerTools/jib.git</connection>
+    <developerConnection>scm:git://github.com/GoogleContainerTools/jib.git</developerConnection>
+    <url>https://github.com/GoogleContainerTools/jib</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.google.cloud.tools</groupId>
+      <artifactId>jib-build-plan</artifactId>
+      <version>0.4.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.cloud.tools</groupId>
+      <artifactId>jib-plugins-extension-common</artifactId>
+      <version>0.2.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.maven</groupId>
+      <artifactId>maven-core</artifactId>
+      <version>3.5.2</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
