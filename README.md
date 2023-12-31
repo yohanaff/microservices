@@ -3,7 +3,7 @@
 ## English
 
 ### Introduction
-This project is a microservices-based application designed to demonstrate a basic but comprehensive microservices architecture. It includes services for authentication, data processing, and more, all containerized with Docker for easy deployment and scalability. To create this project I followed [this course](https://www.youtube.com/watch?v=lh1oQHXVSc0&list=PLSVW22jAG8pBnhAdq9S8BpLnZ0_jVBj0c), but I used Spring Boot 3 and made some changes to the code.
+This project is a microservices-based application designed to demonstrate a basic but comprehensive microservices architecture. It includes services for authentication, data processing, and more, all containerized with Docker for easy deployment and scalability. To create this project I followed [this course](https://www.youtube.com/watch?v=mPPhcU7oWDU), but I used Spring Boot 3 and made some changes to the code.
 
 ### Prerequisites
 - Docker
@@ -52,5 +52,6 @@ This project is a microservices-based application designed to demonstrate a basi
    
 
 Do the same for the other endpoints.
-   
+
+Special thanks to [Sai Subramanyam Upadhyayula](https://github.com/SaiUpadhyayula) for the [course](https://www.youtube.com/watch?v=mPPhcU7oWDU).
             
