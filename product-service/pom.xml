@@ -69,6 +69,11 @@
             <artifactId>micrometer-registry-prometheus</artifactId>
             <scope>runtime</scope>
         </dependency>
+        <dependency>
+            <groupId>io.micrometer</groupId>
+            <artifactId>micrometer-registry-prometheus</artifactId>
+            <scope>runtime</scope>
+        </dependency>
     </dependencies>
 
     <build>
@@ -91,7 +96,7 @@
                 <version>3.2.1</version>
                 <configuration>
                     <from>
-                        <image>eclipse-temurin:17.0.9_9-jre</image>
+                        <image>eclipse-temurin:17.0.4.1_1-jre</image>
                     </from>
                     <to>
                         <image>registry.hub.docker.com/yohanaf/${project.artifactId}</image>

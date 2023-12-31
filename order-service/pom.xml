@@ -77,6 +77,21 @@
             <artifactId>spring-kafka</artifactId>
             <version>3.1.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.docker-java</groupId>
+            <artifactId>docker-java-api</artifactId>
+            <version>3.3.0</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.micrometer</groupId>
+            <artifactId>micrometer-registry-prometheus</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
@@ -99,7 +114,7 @@
                 <version>3.2.1</version>
                 <configuration>
                     <from>
-                        <image>eclipse-temurin:17.0.9_9-jre</image>
+                        <image>eclipse-temurin:17.0.4.1_1-jre</image>
                     </from>
                     <to>
                         <image>registry.hub.docker.com/yohanaf/${project.artifactId}</image>
