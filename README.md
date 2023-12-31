@@ -12,6 +12,7 @@ Tech stack:
 - Spring Data JPA
 - Spring Security
 - JUnit 5
+- Docker
 - Keycloak
 - PostgreSQL
 - MySQL
