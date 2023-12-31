@@ -11,6 +11,7 @@ Tech stack:
 - Spring Cloud
 - Spring Data JPA
 - Spring Security
+- JUnit 5
 - Keycloak
 - PostgreSQL
 - MySQL
