@@ -1,9 +1,27 @@
 # Microservices Project
 
-## English
-
 ### Introduction
 This project is a microservices-based application designed to demonstrate a basic but comprehensive microservices architecture. It includes services for authentication, data processing, and more, all containerized with Docker for easy deployment and scalability. To create this project I followed [this course](https://www.youtube.com/watch?v=mPPhcU7oWDU), but I used Spring Boot 3 and made some changes to the code.
+![Diagram of the microservices architecture](images/diagram.png)
+
+Tech stack:
+
+- Java 17
+- Spring Boot 3
+- Spring Cloud
+- Spring Data JPA
+- Spring Security
+- Keycloak
+- PostgreSQL
+- MySQL
+- MongoDB
+- Docker
+- Docker Compose
+- Maven
+- Kafka
+- Zipkin
+- Prometheus
+- Grafana
 
 ### Prerequisites
 - Docker
